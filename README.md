@@ -22,3 +22,16 @@ Topics Covered:
 Resources:
 - NetworkChuck
 - Computer Networking: A Top-Down Approach
+
+### Day 2 - Cisco Packet Tracer
+
+Topics Covered:
+- Cisco Packet Tracer Introduction
+- Network Simulation Basics
+- Creating Simple Network Topologies
+
+Certificate Earned:
+- Getting Started with Cisco Packet Tracer
+
+Resources:
+- Cisco Networking Academy
