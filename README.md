@@ -35,3 +35,15 @@ Certificate Earned:
 
 Resources:
 - Cisco Networking Academy
+
+### Day 3 - Started the course "Networking Basics" from Cisco Networking Academy
+
+Topics Covered:
+- Module 1:
+  - Network Types
+  - Data Transmission
+  - Bandwidth and Throughput
+- Module 2
+  - Client and Servers
+  - Network Components
+  - ISP Connectivity Options
